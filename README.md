@@ -87,7 +87,7 @@ RETRIEVER_K=5
 Extraia o zip do dos manuais de D&D:
 
 ```
-Vá atá a pasta "manuals" e extraia diretamente nela.
+Vá atá a pasta "manuals" e extraia diretamente nela. SENHA: 123
 ```
 
 Execute a interface principal:
