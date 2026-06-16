@@ -84,6 +84,11 @@ CHROMA_DIR=.chroma/codm_manuals
 EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 RETRIEVER_K=5
 ```
+Extraia o zip do dos manuais de D&D:
+
+```
+Vá atá a pasta "manuals" e extraia diretamente nela.
+```
 
 Execute a interface principal:
 
